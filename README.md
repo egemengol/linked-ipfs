@@ -8,8 +8,8 @@ Requires a database for keeping the CID of the latest node.
 
 CLI prompts user to enter a string, which is then set as the payload for a node.
 
-The nodes in the example below produce a tree.
-The list is acquired by traversing back from a known leaf.
+The nodes in the example below produce a tree.  
+The list is acquired by traversing back from a known leaf.  
 Eliminates the need for authentication.
 
 ```sh
